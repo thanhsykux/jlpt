@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "level": "N2",
+    "category": "Kanji Reading",
+    [cite_start]"question": "私は遠くから彼女が働く**姿**を見ていた。 [cite: 13]",
+    "options": [
+      [cite_start]"すかた [cite: 14]",
+      [cite_start]"すがた [cite: 18]",
+      [cite_start]"すはた [cite: 19]",
+      [cite_start]"すはだ [cite: 20]"
+    ],
+    "answer": 2,
+    "explanation": "姿 (すがた): figure or appearance. [cite_start]Literal breakdown: I from afar her working figure was looking at. [cite: 13, 18]"
+  },
+  {
+    "id": 2,
+    "level": "N2",
+    "category": "Kanji Reading",
+    [cite_start]"question": "スポーツをする時は、ときどき水分を**補った**ほうがいい。 [cite: 15]",
+    "options": [
+      [cite_start]"とった [cite: 16]",
+      [cite_start]"あたった [cite: 23]",
+      [cite_start]"たもった [cite: 24]",
+      [cite_start]"おぎなった [cite: 25]"
+    ],
+    "answer": 4,
+    "explanation": "補う (おぎなう): to supplement. [cite_start]Literal breakdown: Sports doing time, sometimes moisture to supplement is better. [cite: 15, 25]"
+  },
+  {
+    "id": 3,
+    "level": "N2",
+    "category": "Kanji Reading",
+    [cite_start]"question": "3人に1人の**割合**で、その試験に合格している。 [cite: 29]",
+    "options": [
+      [cite_start]"かつあい [cite: 30]",
+      [cite_start]"かっごう [cite: 26]",
+      [cite_start]"わりあい [cite: 27]",
+      [cite_start]"わりごう [cite: 28]"
+    ],
+    "answer": 3,
+    "explanation": "割合 (わりあい): ratio. [cite_start]Literal breakdown: 3 people in 1 person's ratio at, that exam are passing. [cite: 27, 29]"
+  },
+  {
+    "id": 4,
+    "level": "N2",
+    "category": "Kanji Orthography",
+    [cite_start]"question": "では、明日の3時にそちらに**うかがいます**。 [cite: 32]",
+    "options": [
+      [cite_start]"司います [cite: 32]",
+      [cite_start]"何います [cite: 33]",
+      [cite_start]"伺います [cite: 33]",
+      [cite_start]"荷います [cite: 38]"
+    ],
+    "answer": 3,
+    "explanation": "伺う (うかがう): to visit (humble). [cite_start]Literal breakdown: Well then, tomorrow's 3 o'clock at there I will visit. [cite: 32, 33]"
+  },
+  {
+    "id": 5,
+    "level": "N2",
+    "category": "Kanji Orthography",
+    [cite_start]"question": "最近は**れいぎ**を知らない人が多いように思う。 [cite: 34]",
+    "options": [
+      [cite_start]"礼義 [cite: 34]",
+      [cite_start]"礼儀 [cite: 35]",
+      [cite_start]"礼議 [cite: 40]",
+      [cite_start]"礼偽 [cite: 46]"
+    ],
+    "answer": 2,
+    "explanation": "礼儀 (れいぎ): manners/etiquette. [cite_start]Literal breakdown: Recently manners not knowing people many are to seem to think. [cite: 34, 35]"
+  },
+  {
+    "id": 6,
+    "level": "N2",
+    "category": "Kanji Orthography",
+    [cite_start]"question": "**しゅうい**に迷惑がかからないように、静かに話してください。 [cite: 42]",
+    "options": [
+      [cite_start]"周固 [cite: 43]",
+      [cite_start]"周囲 [cite: 44]",
+      [cite_start]"週固 [cite: 45]",
+      [cite_start]"週囲 [cite: 47]"
+    ],
+    "answer": 2,
+    "explanation": "周囲 (しゅうい): surroundings. [cite_start]Literal breakdown: Surroundings to annoyance not to cause so that, quietly please speak. [cite: 42, 44]"
+  },
+  {
+    "id": 7,
+    "level": "N2",
+    "category": "Contextual Vocabulary",
+    [cite_start]"question": "この計画が失敗したのは、リーダーである私の**( )**です。 [cite: 49]",
+    "options": [
+      [cite_start]"義務 [cite: 49]",
+      [cite_start]"成果 [cite: 52]",
+      [cite_start]"責任 [cite: 50]",
+      [cite_start]"任務 [cite: 57]"
+    ],
+    "answer": 3,
+    "explanation": "責任 (せきにん): responsibility. [cite_start]Literal breakdown: This plan failed thing is, leader being my responsibility is. [cite: 49, 50]"
+  },
+  {
+    "id": 8,
+    "level": "N2",
+    "category": "Contextual Vocabulary",
+    [cite_start]"question": "いくら忙しくても、**( )**日曜日くらいは休みたい。 [cite: 51]",
+    "options": [
+      [cite_start]"せめて [cite: 53]",
+      [cite_start]"やっと [cite: 54]",
+      [cite_start]"けっこう [cite: 58]",
+      [cite_start]"どうやら [cite: 59]"
+    ],
+    "answer": 1,
+    "explanation": "せめて: at least. [cite_start]Literal breakdown: However busy it is, at least Sunday about want to rest. [cite: 51, 53]"
+  },
+  {
+    "id": 9,
+    "level": "N2",
+    "category": "Contextual Vocabulary",
+    [cite_start]"question": "会議が始まるまで30分以上あるから、新聞でも読んで時間を**( )**。 [cite: 62]",
+    "options": [
+      [cite_start]"もとう [cite: 62]",
+      [cite_start]"かけよう [cite: 65]",
+      [cite_start]"つぶそう [cite: 66]",
+      [cite_start]"とめよう [cite: 61]"
+    ],
+    "answer": 3,
+    "explanation": "時間を潰す (じかんをつぶす): to kill time. [cite_start]Literal breakdown: Meeting begins until 30 minutes more than there is because, newspaper or something reading time let's kill. [cite: 62, 66]"
+  },
+  {
+    "id": 10,
+    "level": "N2",
+    "category": "Contextual Vocabulary",
+    [cite_start]"question": "明日、来週の旅行の**( )**をしましょう。 [cite: 63]",
+    "options": [
+      [cite_start]"見合い [cite: 63]",
+      [cite_start]"言い合い [cite: 68]",
+      [cite_start]"打ち合わせ [cite: 71]",
+      [cite_start]"待ち合わせ [cite: 71]"
+    ],
+    "answer": 3,
+    "explanation": "打ち合わせ (うちあわせ): advance meeting/arrangement. [cite_start]Literal breakdown: Tomorrow, next week's trip's arrangement let's do. [cite: 63, 71]"
+  },
+  {
+    "id": 11,
+    "level": "N2",
+    "category": "Word Formation",
+    [cite_start]"question": "この問題を解くのに**( )**一日かかった。 [cite: 76]",
+    "options": [
+      [cite_start]"完 [cite: 77]",
+      [cite_start]"全 [cite: 78]",
+      [cite_start]"本 [cite: 79]",
+      [cite_start]"丸 [cite: 84]"
+    ],
+    "answer": 4,
+    "explanation": "丸一日 (まるいちにち): a whole day. [cite_start]Literal breakdown: This problem to solve a whole day took. [cite: 76, 84]"
+  },
+  {
+    "id": 12,
+    "level": "N2",
+    "category": "Word Formation",
+    [cite_start]"question": "履歴**( )**にはかならず写真を貼ってください。 [cite: 80]",
+    "options": [
+      [cite_start]"紙 [cite: 80]",
+      [cite_start]"書 [cite: 80]",
+      [cite_start]"証 [cite: 80]",
+      [cite_start]"状 [cite: 85]"
+    ],
+    "answer": 2,
+    "explanation": "履歴書 (りれきしょ): resume. [cite_start]Literal breakdown: Resume on without fail photo please stick. [cite: 80]"
+  },
+  {
+    "id": 13,
+    "level": "N2",
+    "category": "Word Formation",
+    [cite_start]"question": "ボランティア活動に積極**( )**に参加している。 [cite: 80]",
+    "options": [
+      [cite_start]"気 [cite: 90]",
+      [cite_start]"感 [cite: 80]",
+      [cite_start]"性 [cite: 81]",
+      [cite_start]"的 [cite: 86]"
+    ],
+    "answer": 4,
+    "explanation": "積極的 (せっきょくてき): positive/proactive. [cite_start]Literal breakdown: Volunteer activities in proactive-ly participating. [cite: 80, 86]"
+  },
+  {
+    "id": 14,
+    "level": "N2",
+    "category": "Paraphrase/Synonym",
+    [cite_start]"question": "この寒さだと**おそらく**明日は雪が降るだろう。 [cite: 94]",
+    "options": [
+      [cite_start]"たぶん [cite: 95]",
+      [cite_start]"絶対に [cite: 95]",
+      [cite_start]"次第に [cite: 96]",
+      [cite_start]"たしかに [cite: 89]"
+    ],
+    "answer": 1,
+    "explanation": "おそらく: probably (たぶん). [cite_start]Literal breakdown: This coldness if it is probably tomorrow snow will fall. [cite: 94, 95]"
+  },
+  {
+    "id": 15,
+    "level": "N2",
+    "category": "Paraphrase/Synonym",
+    [cite_start]"question": "**やむをえない**事情で大学をやめることになった。 [cite: 97]",
+    "options": [
+      [cite_start]"くやしい [cite: 99]",
+      [cite_start]"はずかしい [cite: 99]",
+      [cite_start]"しかたがない [cite: 99]",
+      [cite_start]"もったいない [cite: 99]"
+    ],
+    "answer": 3,
+    "explanation": "やむをえない: unavoidable (しかたがない). [cite_start]Literal breakdown: Unavoidable circumstances by university to quit it became. [cite: 97, 99]"
+  },
+  {
+    "id": 16,
+    "level": "N2",
+    "category": "Paraphrase/Synonym",
+    [cite_start]"question": "デパートで小学校の同級生に**ばったり**会った。 [cite: 100]",
+    "options": [
+      [cite_start]"偶然 [cite: 103]",
+      [cite_start]"自然に [cite: 103]",
+      [cite_start]"都合よく [cite: 101]",
+      [cite_start]"久しぶりに [cite: 102]"
+    ],
+    "answer": 1,
+    "explanation": "ばったり: unexpectedly / accidentally (偶然). [cite_start]Literal breakdown: Department store at elementary school's classmate to unexpectedly met. [cite: 100, 103]"
+  },
+  {
+    "id": 17,
+    "level": "N2",
+    "category": "Usage",
+    [cite_start]"question": "次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。**等しい** [cite: 105, 106]",
+    "options": [
+      [cite_start]"この二つの三角形の面積は等しい。 [cite: 110]",
+      [cite_start]"私は毎日等しい道を通って通勤している。 [cite: 111]",
+      [cite_start]"チーム全員が等しい気持ちで試合に挑んだ。 [cite: 113]",
+      [cite_start]"私と彼は、小学校から高校まで学校が等しい。 [cite: 114]"
+    ],
+    "answer": 1,
+    "explanation": "等しい (ひとしい): equal. [cite_start]Literal breakdown: These two triangles' area is equal. [cite: 106, 110]"
+  },
+  {
+    "id": 18,
+    "level": "N2",
+    "category": "Usage",
+    [cite_start]"question": "次の言葉の使い方として最もよいものを、1・2・3・4から一つ選びなさい。**あいにく** [cite: 105, 115]",
+    "options": [
+      [cite_start]"あいにくなので、コーヒーでもいかがですか。 [cite: 116]",
+      [cite_start]"あいにくその日は予定があって参加できません。 [cite: 118]",
+      [cite_start]"あいにくの天気で、海に行くのにちょうどいいですね。 [cite: 119]",
+      [cite_start]"あいにく部長は席におりますので、少々お待ちください。 [cite: 120]"
+    ],
+    "answer": 2,
+    "explanation": "あいにく: unfortunately. [cite_start]Literal breakdown: Unfortunately that day plan there is and participate cannot. [cite: 115, 118]"
+  }
+]
