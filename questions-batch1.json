@@ -1,0 +1,174 @@
+[
+  {
+    "id": 1,
+    "level": "N2",
+    "category": "Kanji Reading",
+    "question": "私は遠くから彼女が働く**姿**を見ていた。",
+    "options": ["すかた", "すがた", "すはた", "すはだ"],
+    "answer": 1,
+    "explanation": "姿 (すがた): figure or appearance. 私は遠くから彼女が働く姿を見ていた = I was watching her figure working from afar."
+  },
+  {
+    "id": 2,
+    "level": "N2",
+    "category": "Kanji Reading",
+    "question": "スポーツをする時は、ときどき水分を**補った**ほうがいい。",
+    "options": ["とった", "あたった", "たもった", "おぎなった"],
+    "answer": 3,
+    "explanation": "補う (おぎなう): to supplement. スポーツをする時は水分を補ったほうがいい = When doing sports, it is better to replenish fluids."
+  },
+  {
+    "id": 3,
+    "level": "N2",
+    "category": "Kanji Reading",
+    "question": "3人に1人の**割合**で、その試験に合格している。",
+    "options": ["かつあい", "かっごう", "わりあい", "わりごう"],
+    "answer": 2,
+    "explanation": "割合 (わりあい): ratio/proportion. 3人に1人の割合で合格している = 1 in 3 people pass the exam."
+  },
+  {
+    "id": 4,
+    "level": "N2",
+    "category": "Kanji Orthography",
+    "question": "では、明日の3時にそちらに**うかがいます**。",
+    "options": ["司います", "何います", "伺います", "荷います"],
+    "answer": 2,
+    "explanation": "伺う (うかがう): to visit (humble form). では、明日の3時にそちらに伺います = Well then, I will visit you at 3 o'clock tomorrow."
+  },
+  {
+    "id": 5,
+    "level": "N2",
+    "category": "Kanji Orthography",
+    "question": "最近は**れいぎ**を知らない人が多いように思う。",
+    "options": ["礼義", "礼儀", "礼議", "礼偽"],
+    "answer": 1,
+    "explanation": "礼儀 (れいぎ): manners/etiquette. 最近は礼儀を知らない人が多い = Recently there seem to be many people who don't know manners."
+  },
+  {
+    "id": 6,
+    "level": "N2",
+    "category": "Kanji Orthography",
+    "question": "**しゅうい**に迷惑がかからないように、静かに話してください。",
+    "options": ["周固", "周囲", "週固", "週囲"],
+    "answer": 1,
+    "explanation": "周囲 (しゅうい): surroundings. 周囲に迷惑がかからないように静かに話してください = Please speak quietly so as not to bother those around you."
+  },
+  {
+    "id": 7,
+    "level": "N2",
+    "category": "Contextual Vocabulary",
+    "question": "この計画が失敗したのは、リーダーである私の**( )**です。",
+    "options": ["義務", "成果", "責任", "任務"],
+    "answer": 2,
+    "explanation": "責任 (せきにん): responsibility. この計画が失敗したのは私の責任です = The failure of this plan is my responsibility as the leader."
+  },
+  {
+    "id": 8,
+    "level": "N2",
+    "category": "Contextual Vocabulary",
+    "question": "いくら忙しくても、**( )**日曜日くらいは休みたい。",
+    "options": ["せめて", "やっと", "けっこう", "どうやら"],
+    "answer": 0,
+    "explanation": "せめて: at least. いくら忙しくても、せめて日曜日くらいは休みたい = No matter how busy I am, I want to rest at least on Sundays."
+  },
+  {
+    "id": 9,
+    "level": "N2",
+    "category": "Contextual Vocabulary",
+    "question": "会議が始まるまで30分以上あるから、新聞でも読んで時間を**( )**。",
+    "options": ["もとう", "かけよう", "つぶそう", "とめよう"],
+    "answer": 2,
+    "explanation": "時間を潰す (じかんをつぶす): to kill time. 新聞でも読んで時間をつぶそう = Let's kill time by reading a newspaper or something."
+  },
+  {
+    "id": 10,
+    "level": "N2",
+    "category": "Contextual Vocabulary",
+    "question": "明日、来週の旅行の**( )**をしましょう。",
+    "options": ["見合い", "言い合い", "打ち合わせ", "待ち合わせ"],
+    "answer": 2,
+    "explanation": "打ち合わせ (うちあわせ): advance meeting/arrangement. 来週の旅行の打ち合わせをしましょう = Let's arrange the details for next week's trip."
+  },
+  {
+    "id": 11,
+    "level": "N2",
+    "category": "Word Formation",
+    "question": "この問題を解くのに**( )**一日かかった。",
+    "options": ["完", "全", "本", "丸"],
+    "answer": 3,
+    "explanation": "丸一日 (まるいちにち): a whole/entire day. この問題を解くのに丸一日かかった = It took a whole day to solve this problem."
+  },
+  {
+    "id": 12,
+    "level": "N2",
+    "category": "Word Formation",
+    "question": "履歴**( )**にはかならず写真を貼ってください。",
+    "options": ["紙", "書", "証", "状"],
+    "answer": 1,
+    "explanation": "履歴書 (りれきしょ): resume/CV. 履歴書にはかならず写真を貼ってください = Please make sure to attach a photo to your resume."
+  },
+  {
+    "id": 13,
+    "level": "N2",
+    "category": "Word Formation",
+    "question": "ボランティア活動に積極**( )**に参加している。",
+    "options": ["気", "感", "性", "的"],
+    "answer": 3,
+    "explanation": "積極的 (せっきょくてき): proactive/positive. ボランティア活動に積極的に参加している = Participating proactively in volunteer activities."
+  },
+  {
+    "id": 14,
+    "level": "N2",
+    "category": "Paraphrase/Synonym",
+    "question": "この寒さだと**おそらく**明日は雪が降るだろう。",
+    "options": ["たぶん", "絶対に", "次第に", "たしかに"],
+    "answer": 0,
+    "explanation": "おそらく means probably, same as たぶん. この寒さだとおそらく明日は雪が降るだろう = With this cold, it will probably snow tomorrow."
+  },
+  {
+    "id": 15,
+    "level": "N2",
+    "category": "Paraphrase/Synonym",
+    "question": "**やむをえない**事情で大学をやめることになった。",
+    "options": ["くやしい", "はずかしい", "しかたがない", "もったいない"],
+    "answer": 2,
+    "explanation": "やむをえない means unavoidable, same as しかたがない. やむをえない事情で大学をやめた = Due to unavoidable circumstances, I ended up quitting university."
+  },
+  {
+    "id": 16,
+    "level": "N2",
+    "category": "Paraphrase/Synonym",
+    "question": "デパートで小学校の同級生に**ばったり**会った。",
+    "options": ["偶然", "自然に", "都合よく", "久しぶりに"],
+    "answer": 0,
+    "explanation": "ばったり means unexpectedly/by chance, same as 偶然 (ぐうぜん). デパートで同級生にばったり会った = I unexpectedly ran into my elementary school classmate at the department store."
+  },
+  {
+    "id": 17,
+    "level": "N2",
+    "category": "Usage",
+    "question": "次の言葉の使い方として最もよいものを選びなさい。**等しい**",
+    "options": [
+      "この二つの三角形の面積は等しい。",
+      "私は毎日等しい道を通って通勤している。",
+      "チーム全員が等しい気持ちで試合に挑んだ。",
+      "私と彼は、小学校から高校まで学校が等しい。"
+    ],
+    "answer": 0,
+    "explanation": "等しい (ひとしい) means equal in value/amount. Correct: この二つの三角形の面積は等しい = The areas of these two triangles are equal. The other options misuse 等しい where 同じ would be more natural."
+  },
+  {
+    "id": 18,
+    "level": "N2",
+    "category": "Usage",
+    "question": "次の言葉の使い方として最もよいものを選びなさい。**あいにく**",
+    "options": [
+      "あいにくなので、コーヒーでもいかがですか。",
+      "あいにくその日は予定があって参加できません。",
+      "あいにくの天気で、海に行くのにちょうどいいですね。",
+      "あいにく部長は席におりますので、少々お待ちください。"
+    ],
+    "answer": 1,
+    "explanation": "あいにく means unfortunately/regrettably. Correct: あいにくその日は予定があって参加できません = Unfortunately I have plans that day and cannot attend. The other options use あいにく in contexts where it doesn't fit."
+  }
+]
